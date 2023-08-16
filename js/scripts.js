@@ -32,3 +32,13 @@ for ( let i = 0; i < pokemonList.length; i++ ) {
 }
 
 
+
+let firstList= ['John', 'Peter', 'Dave'];
+firstList.forEach(function(first)
+{document.write(first)});
+
+
+pokemonList.forEach( function(pokemon) {
+console.log(pokemon.Name + 'height is' + pokemon.height + 'weapon types are' + pokemon.types + 'weight is' + pokemon.weight>)
+
+});
